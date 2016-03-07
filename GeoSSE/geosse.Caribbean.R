@@ -1,5 +1,7 @@
 #geosse script for Caribbean vs. rest of globe
 
+library(diversitree)
+
 pruned.trees<-read.nexus("pruned.trees.tre")
 
 data=read.table("data.caribbean.txt", row.names=1)
