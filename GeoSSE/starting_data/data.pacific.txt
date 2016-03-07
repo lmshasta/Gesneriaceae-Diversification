@@ -1,0 +1,749 @@
+ Achimenes_admirabilis	2
+ Achimenes_antirrhina	2
+ Achimenes_candida	2
+ Achimenes_dulcis	2
+ Achimenes_erecta	2
+ Achimenes_fimbriata	2
+ Achimenes_flava	2
+ Achimenes_glabrata	2
+ Achimenes_grandiflora	2
+ Achimenes_hintoniana	2
+ Achimenes_longiflora	2
+ Achimenes_mexicana	2
+ Achimenes_misera	2
+ Achimenes_nayaritensis	2
+ Achimenes_patens	2
+ Achimenes_pedunculata	2
+ Achimenes_warszewicziana	2
+ Achimenes_woodii	2
+ Alloplectus_aquatilis	2
+ Alloplectus_hispidus	2
+ Alloplectus_tessmannii	2
+ Alsobia_dianthiflora	2
+ Alsobia_punctata	2
+ Anetanthus_gracilis	2
+ Asteranthera_ovata	2
+ Bellonia_aspera	2
+ Besleria_aggregata	2
+ Besleria_angustiflora	2
+ Besleria_divaricata	2
+ Besleria_emendata	2
+ Besleria_formicaria	2
+ Besleria_formosa	2
+ Besleria_gracilenta	2
+ Besleria_lutea	2
+ Besleria_melancholica	2
+ Besleria_modica	2
+ Besleria_mortoniana	2
+ Besleria_notabilis	2
+ Besleria_ovalifolia	2
+ Besleria_pendula	2
+ Besleria_rotundifolia	2
+ Besleria_solanoides	2
+ Besleria_tambensis	2
+ Besleria_variabilis	2
+ Cobananthus_calochlamys	2
+ Codonanthe_calcarata	2
+ Codonanthe_caribaea	2
+ Codonanthe_carnosa	2
+ Codonanthe_chiricana	2
+ Codonanthe_cordifolia	2
+ Codonanthe_corniculata	2
+ Codonanthe_crassifolia	2
+ Codonanthe_devosiana	2
+ Codonanthe_elegans	2
+ Codonanthe_erubescens	2
+ Codonanthe_gibbosa	2
+ Codonanthe_gracilis	2
+ Codonanthe_luteola	2
+ Codonanthe_macradenia	2
+ Codonanthe_serrulata	2
+ Codonanthe_uleana	2
+ Codonanthe_venosa	2
+ Codonanthopsis_ulei	2
+ Columnea_billbergiana	2
+ Columnea_byrsina	2
+ Columnea_crassicaulis	2
+ Columnea_dissimilis	2
+ Columnea_dressleri	2
+ Columnea_erythrophaea	2
+ Columnea_eubracteata	2
+ Columnea_gloriosa	2
+ Columnea_harrisii	2
+ Columnea_inaequilatera	2
+ Columnea_linearis	2
+ Columnea_medicinalis	2
+ Columnea_minor	2
+ Columnea_minutiflora	2
+ Columnea_orientandina	2
+ Columnea_paramicola	2
+ Columnea_picta	2
+ Columnea_pulchra	2
+ Columnea_purpurata	2
+ Columnea_raymondii	2
+ Columnea_rileyi	2
+ Columnea_rubricalyx	2
+ Columnea_sanguinea	2
+ Columnea_schiedeana	2
+ Columnea_schimpffii	2
+ Columnea_spathulata	2
+ Columnea_sulfurea	2
+ Columnea_tenuis	2
+ Columnea_ulei	2
+ Columnea_zebrina	2
+ Coronanthera_aspera	1
+ Coronanthera_clarkeana	1
+ Coronanthera_deltoidifolia	1
+ Coronanthera_pancheri	1
+ Coronanthera_sericea	1
+ Coronanthera_squamata	1
+ Corytoplectus_capitatus	2
+ Corytoplectus_congestus	2
+ Corytoplectus_cutucuensis	2
+ Corytoplectus_oaxacensis	2
+ Corytoplectus_riceanus	2
+ Crantzia_cristata	2
+ Crantzia_epirotes	2
+ Crantzia_tigrina	2
+ Cremersia_patula	2
+ Cremosperma_castroanum	2
+ Cremosperma_hirsutissimum	2
+ Cremosperma_humidum	2
+ Cremosperma_maculatum	2
+ Cremosperma_nobile	2
+ Cremosperma_veraguanum	2
+ Depanthus_glaber	1
+ Diastema_affine	2
+ Diastema_comiferum	2
+ Diastema_scabrum	2
+ Diastema_vexans	2
+ Drymonia_ambonensis	2
+ Drymonia_brochidodroma	2
+ Drymonia_candida	2
+ Drymonia_chiribogana	2
+ Drymonia_coccinea	2
+ Drymonia_conchocalyx	2
+ Drymonia_coriacea	2
+ Drymonia_dodsonii	2
+ Drymonia_doratostyla	2
+ Drymonia_ecuadorensis	2
+ Drymonia_foliacea	2
+ Drymonia_hoppii	2
+ Drymonia_killipii	2
+ Drymonia_laciniosa	2
+ Drymonia_lanceolata	2
+ Drymonia_longifolia	2
+ Drymonia_macrophylla	2
+ Drymonia_multiflora	2
+ Drymonia_oinochrophylla	2
+ Drymonia_parviflora	2
+ Drymonia_peltata	2
+ Drymonia_pilifera	2
+ Drymonia_rhodoloma	2
+ Drymonia_rubra	2
+ Drymonia_serrulata	2
+ Drymonia_strigosa	2
+ Drymonia_tenuis	2
+ Drymonia_teuscheri	2
+ Drymonia_turrialvae	2
+ Drymonia_urceolata	2
+ Drymonia_variegata	2
+ Drymonia_warszewicziana	2
+ Episcia_cupreata	2
+ Episcia_lilacina	2
+ Eucodonia_verticillata	2
+ Fieldia_australis	1
+ Gasteranthus_atratus	2
+ Gasteranthus_carinatus	2
+ Gasteranthus_corallinus	2
+ Gasteranthus_crispus	2
+ Gasteranthus_glaber	2
+ Gasteranthus_lateralis	2
+ Gasteranthus_leopardus	2
+ Gasteranthus_mutabilis	2
+ Gasteranthus_quitensis	2
+ Gasteranthus_tenellus	2
+ Gasteranthus_villosus	2
+ Gesneria_acaulis	2
+ Gesneria_barahonensis	2
+ Gesneria_calycosa	2
+ Gesneria_citrina	2
+ Gesneria_clandestina	2
+ Gesneria_cubensis	2
+ Gesneria_cuneifolia	2
+ Gesneria_decapleura	2
+ Gesneria_ekmanii	2
+ Gesneria_fruticosa	2
+ Gesneria_humilis	2
+ Gesneria_jamaicensis	2
+ Gesneria_onychocalyx	2
+ Gesneria_pedunculosa	2
+ Gesneria_pulverulenta	2
+ Gesneria_quisqueyana	2
+ Gesneria_reticulata	2
+ Gesneria_rupincola	2
+ Gesneria_tuberosa	2
+ Glossoloma_altescandens	2
+ Glossoloma_baguense	2
+ Glossoloma_bolivianum	2
+ Glossoloma_carpishense	2
+ Glossoloma_chrysanthum	2
+ Glossoloma_grandicalyx	2
+ Glossoloma_ichthyoderma	2
+ Glossoloma_martinianum	2
+ Glossoloma_medusaeum	2
+ Glossoloma_oblongicalyx	2
+ Glossoloma_panamense	2
+ Glossoloma_penduliflorum	2
+ Glossoloma_purpureum	2
+ Glossoloma_pycnosuzygium	2
+ Glossoloma_schultzei	2
+ Glossoloma_serpens	2
+ Glossoloma_sprucei	2
+ Glossoloma_tetragonum	2
+ Gloxinella_lindeniana	2
+ Gloxinia_perennis	2
+ Gloxiniopsis_racemosa	2
+ Goyazia_petraea	2
+ Heppiella_ulmifolia	2
+ Heppiella_viscida	2
+ Kohleria_allenii	2
+ Kohleria_amabilis	2
+ Kohleria_grandiflora	2
+ Kohleria_peruviana	2
+ Kohleria_rugata	2
+ Kohleria_spicata	2
+ Kohleria_tigridia	2
+ Kohleria_trianae	2
+ Kohleria_villosa	2
+ Kohleria_warszewiczii	2
+ Lembocarpus_amoenus	2
+ Lenbrassia_australiana	1
+ Mandirola_ichthyostoma	2
+ Mandirola_multiflora	2
+ Mandirola_rupestris	2
+ Napeanthus_apodemus	2
+ Napeanthus_bracteatus	2
+ Napeanthus_costaricensis	2
+ Napeanthus_jelskii	2
+ Napeanthus_primulifolius	2
+ Napeanthus_reitzii	2
+ Napeanthus_riparius	2
+ Napeanthus_robustus	2
+ Napeanthus_rupicola	2
+ Napeanthus_subacaulis	2
+ Nautilocalyx_aeneus	2
+ Nautilocalyx_coccineus	2
+ Nautilocalyx_melittifolius	2
+ Nautilocalyx_pemphidius	2
+ Nautilocalyx_whitei	2
+ Negria_rhabdothamnoides	1
+ Nematanthus_albus	2
+ Nematanthus_australis	2
+ Nematanthus_brasiliensis	2
+ Nematanthus_corticola	2
+ Nematanthus_crassifolius	2
+ Nematanthus_fluminensis	2
+ Nematanthus_fornix	2
+ Nematanthus_gregarius	2
+ Nematanthus_hirtellus	2
+ Nematanthus_jolyanus	2
+ Nematanthus_maculatus	2
+ Nematanthus_monanthos	2
+ Nematanthus_punctatus	2
+ Nematanthus_pycnophyllus	2
+ Nematanthus_savannarum	2
+ Nematanthus_sericeus	2
+ Nematanthus_serpens	2
+ Nematanthus_teixeiranus	2
+ Nematanthus_tessmannii	2
+ Nematanthus_villosus	2
+ Nematanthus_wettsteinii	2
+ Nematanthus_wiehleri	2
+ Neomortonia_nummularia	2
+ Neomortonia_rosea	2
+ Nomopyle_dodsonii	2
+ Oerstedina_cerricola	2
+ Paliavana_gracilis	2
+ Paliavana_plumerioides	2
+ Paliavana_prasinata	2
+ Paliavana_sericiflora	2
+ Paliavana_tenuiflora	2
+ Paliavana_werdermannii	2
+ Paradrymonia_anisophylla	2
+ Paradrymonia_binata	2
+ Paradrymonia_buchtienii	2
+ Paradrymonia_campostyla	2
+ Paradrymonia_ciliosa	2
+ Paradrymonia_densa	2
+ Paradrymonia_fuquaiana	2
+ Paradrymonia_lineata	2
+ Paradrymonia_metamorphophylla	2
+ Paradrymonia_pedunculata	2
+ Paradrymonia_splendens	2
+ Pearcea_abunda	2
+ Pearcea_reticulata	2
+ Pearcea_sprucei	2
+ Pheidonocarpa_corymbosa	2
+ Phinaea_albolineata	2
+ Phinaea_pulchella	2
+ Rhoogeton_cyclophyllus	2
+ Rhoogeton_viviparus	2
+ Rhytidophyllum_asperum	2
+ Rhytidophyllum_berteroanum	2
+ Rhytidophyllum_crenulatum	2
+ Rhytidophyllum_exsertum	2
+ Rhytidophyllum_grandiflorum	2
+ Rhytidophyllum_petiolare	2
+ Rhytidophyllum_vernicosum	2
+ Rufodorsia_intermedia	2
+ Rufodorsia_major	2
+ Sarmienta_scandens	2
+ Seemannia_nematanthodes	2
+ Sinningia_aggregata	2
+ Sinningia_aghensis	2
+ Sinningia_allagophylla	2
+ Sinningia_amambayensis	2
+ Sinningia_araneosa	2
+ Sinningia_barbata	2
+ Sinningia_brasiliensis	2
+ Sinningia_bulbosa	2
+ Sinningia_calcaria	2
+ Sinningia_canastrensis	2
+ Sinningia_canescens	2
+ Sinningia_carangolensis	2
+ Sinningia_cardinalis	2
+ Sinningia_cochlearis	2
+ Sinningia_conspicua	2
+ Sinningia_cooperi	2
+ Sinningia_curtiflora	2
+ Sinningia_defoliata	2
+ Sinningia_douglasii	2
+ Sinningia_elatior	2
+ Sinningia_eumorpha	2
+ Sinningia_gerdtiana	2
+ Sinningia_gigantifolia	2
+ Sinningia_globulosa	2
+ Sinningia_guttata	2
+ Sinningia_hatschbachii	2
+ Sinningia_hirsuta	2
+ Sinningia_iarae	2
+ Sinningia_incarnata	2
+ Sinningia_insularis	2
+ Sinningia_kautskyi	2
+ Sinningia_lateritia	2
+ Sinningia_leopoldii	2
+ Sinningia_leucotricha	2
+ Sinningia_lindleyi	2
+ Sinningia_lineata	2
+ Sinningia_macrophylla	2
+ Sinningia_macropoda	2
+ Sinningia_macrostachya	2
+ Sinningia_magnifica	2
+ Sinningia_mauroana	2
+ Sinningia_micans	2
+ Sinningia_nivalis	2
+ Sinningia_nordestina	2
+ Sinningia_piresiana	2
+ Sinningia_polyantha	2
+ Sinningia_pusilla	2
+ Sinningia_reitzii	2
+ Sinningia_sceptrum	2
+ Sinningia_schiffneri	2
+ Sinningia_sellovii	2
+ Sinningia_striata	2
+ Sinningia_sulcata	2
+ Sinningia_tuberosa	2
+ Sinningia_tubiflora	2
+ Sinningia_valsuganensis	2
+ Sinningia_villosa	2
+ Sinningia_warmingii	2
+ Smithiantha_aurantiaca	2
+ Smithiantha_canarina	2
+ Smithiantha_laui	2
+ Smithiantha_multiflora	2
+ Solenophora_calycosa	2
+ Sphaerorrhiza_burchellii	2
+ Sphaerorrhiza_sarmentiana	2
+ Titanotrichum_oldhamii	2
+ Vanhouttea_brueggeri	2
+ Vanhouttea_calcarata	2
+ Vanhouttea_fruticulosa	2
+ Vanhouttea_gardneri	2
+ Vanhouttea_hilariana	2
+ Vanhouttea_lanata	2
+ Vanhouttea_leonii	2
+ Vanhouttea_pendula	2
+Acanthonema_strigosum	2
+Aeschynanthus_austroyunnanensis	0
+Aeschynanthus_bracteatus	0
+Aeschynanthus_hildebrandii	1
+Aeschynanthus_lancilimbus	1
+Aeschynanthus_longicalyx	1
+Aeschynanthus_longiflorus	1
+Aeschynanthus_roseoflorus	1
+Agalmyla_biflora	1
+Agalmyla_bilirana	1
+Agalmyla_clarkei	1
+Agalmyla_glabra	1
+Agalmyla_parasitica	1
+Agalmyla_paucipilosa	1
+Agalmyla_sojoliana	1
+Allocheilos_guangxiensis	1
+Allostigma_guangxiense	1
+Ancylostemon_aureus	1
+Ancylostemon_convexus	1
+Ancylostemon_humilis	0
+Ancylostemon_mairei	1
+Ancylostemon_rhombifolius	0
+Ancylostemon_ronganensis	1
+Ancylostemon_saxatilis	1
+Anna_mollifolia	1
+Anna_ophiorrhizoides	0
+Anna_submontana	1
+Boea_hygrometrica	0
+Boea_hygroscopica	1
+Boea_magellanica	1
+Boea_philippensis	1
+Boeica_ferruginea	1
+Boeica_multinervia	1
+Boeica_porosa	1
+Bournea_leiophylla	2
+Bournea_sinensis	1
+Briggsia_dongxingensis	1
+Briggsia_longifolia	1
+Briggsia_longipes	1
+Briggsia_mihieri	0
+Briggsia_muscicola	0
+Briggsia_rosthornii	0
+Briggsia_stewardii	1
+Briggsiopsis_delavayi	0
+Calcareoboea_coccinea	1
+Cathayanthe_biflora	1
+Chirita_leprosa	1
+Chirita_lijiangensis	1
+Chirita_ningmingensis	1
+Chirita_rongshuiensis	1
+Chiritopsis_danxiaensis	1
+Chiritopsis_jingxiensis	1
+Chiritopsis_longzhouensis	1
+Colpogyne_betsiliensis	2
+Conandron_ramondioides	2
+Corallodiscus_conchifolius	0
+Corallodiscus_kingianus	0
+Corallodiscus_lanuginosus	0
+Cyrtandra_anthropophagorum	1
+Cyrtandra_aurantiicarpa	1
+Cyrtandra_biserrata	1
+Cyrtandra_calpidicarpa	1
+Cyrtandra_confertiflora	1
+Cyrtandra_cupulata	1
+Cyrtandra_feaniana	1
+Cyrtandra_filipes	1
+Cyrtandra_grayi	1
+Cyrtandra_jonesii	1
+Cyrtandra_kaulantha	1
+Cyrtandra_kealiae	1
+Cyrtandra_kusaimontana	1
+Cyrtandra_leucantha	1
+Cyrtandra_longifolia	1
+Cyrtandra_munroi	1
+Cyrtandra_nukuhivensis	1
+Cyrtandra_occulta	1
+Cyrtandra_pendula	1
+Cyrtandra_pickeringii	1
+Cyrtandra_platyphylla	1
+Cyrtandra_pogonantha	1
+Cyrtandra_pulchella	1
+Cyrtandra_richii	1
+Cyrtandra_sessilis	1
+Cyrtandra_spathulata	1
+Cyrtandra_thibaultii	1
+Cyrtandra_tintinnabula	1
+Cyrtandra_wagneri	1
+Cyrtandra_wainihaensis	1
+Damrongia_lacunosa	1
+Deinocheilos_jiangxiensis	1
+Didissandra_frutescens	1
+Didymocarpus_antirrinoides	1
+Didymocarpus_aromaticus	0
+Didymocarpus_aureoglandulosus	0
+Didymocarpus_biserratus	1
+Didymocarpus_citrinus	1
+Didymocarpus_corchorifolius	1
+Didymocarpus_cordatus	1
+Didymocarpus_cortusifolius	1
+Didymocarpus_epithemoides	1
+Didymocarpus_hancei	1
+Didymocarpus_inflatus	1
+Didymocarpus_kerrii	1
+Didymocarpus_megaphyllus	1
+Didymocarpus_mengtze	1
+Didymocarpus_niveolanosus	1
+Didymocarpus_ovatus	1
+Didymocarpus_podocarpus	0
+Didymocarpus_pseudomengtze	1
+Didymocarpus_purpureobracteatus	1
+Didymocarpus_purpureopictus	1
+Didymocarpus_stenanthos	1
+Didymocarpus_tristis	1
+Didymocarpus_villosus	0
+Didymostigma_obtusum	1
+Didymostigma_trichanthera	1
+Emarhendia_bettiana	1
+Epithema_benthamii	1
+Epithema_membranaceum	1
+Epithema_saxatile	1
+Epithema_taiwanense	2
+Epithema_tenue	2
+Gyrocheilos_lasiocalyx	1
+Gyrocheilos_retrotrichus	1
+Haberlea_rhodopensis	2
+Hemiboea_cavaleriei	0
+Hemiboea_fangii	2
+Hemiboea_follicularis	1
+Hemiboea_gracilis	0
+Hemiboea_henryi	0
+Hemiboea_longgangensis	1
+Hemiboea_longzhouensis	1
+Hemiboea_magnibracteata	1
+Hemiboea_omeiensis	2
+Hemiboea_rubribracteata	1
+Hemiboea_subcapitata	0
+Hemiboeopsis_longisepala	1
+Henckelia_anachoreta	1
+Henckelia_corrugata	1
+Henckelia_dielsii	0
+Henckelia_incana	2
+Henckelia_pumila	0
+Hexatheca_fulva	1
+Hovanella_madagascarica	2
+Isometrum_farreri	2
+Isometrum_lancifolium	2
+Isometrum_lungshengense	1
+Isometrum_primuliflorum	2
+Jancaea_heldreichii	2
+Jerdonia_indica	2
+Kaisupeea_herbacea	1
+Lagarosolen_coriaceifolius	1
+Lagarosolen_hechiensis	1
+Lagarosolen_hispidus	1
+Lagarosolen_integrifolius	1
+Lagarosolen_lui	1
+Liebigia_speciosa	1
+Linnaeopsis_alba	2
+Loxonia_hirsuta	1
+Loxostigma_cavaleriei	1
+Loxostigma_fimbrisepalum	1
+Loxostigma_glabrifolium	1
+Loxostigma_griffithii	0
+Lysionotus_apicidens	0
+Lysionotus_chingii	1
+Lysionotus_denticulosus	1
+Lysionotus_forrestii	1
+Lysionotus_oblongifolius	1
+Lysionotus_pauciflorus	0
+Lysionotus_petelotii	1
+Metabriggsia_ovalifolia	1
+Metabriggsia_purpureotincta	1
+Metapetrocosmea_peltata	1
+Microchirita_caliginosa	1
+Microchirita_hamosa	0
+Microchirita_involucrata	1
+Microchirita_lavandulacea	1
+Monophyllaea_elongata	1
+Monophyllaea_glauca	1
+Monophyllaea_hirticalyx	1
+Monophyllaea_horsfieldii	1
+Opithandra_acaulis	1
+Opithandra_burttii	1
+Opithandra_dinghushanensis	1
+Opithandra_primuloides	2
+Opithandra_sinohenryi	1
+Orchadocarpa_lilacina	1
+Oreocharis_argyreia	1
+Oreocharis_aurea	1
+Oreocharis_auricula	0
+Oreocharis_benthamii	0
+Oreocharis_henryana	0
+Oreocharis_magnidens	1
+Oreocharis_xiangguiensis	1
+Ornithoboea_arachnoidea	1
+Ornithoboea_wildeana	1
+Paraboea_acutifolia	1
+Paraboea_amplifolia	1
+Paraboea_birmanica	1
+Paraboea_brachycarpa	1
+Paraboea_burttii	1
+Paraboea_clarkei	1
+Paraboea_crassifolia	1
+Paraboea_dictyoneura	1
+Paraboea_effusa	1
+Paraboea_glabra	1
+Paraboea_glabrescens	1
+Paraboea_glabrisepala	1
+Paraboea_glanduliflora	1
+Paraboea_glutinosa	1
+Paraboea_havilandii	1
+Paraboea_lanata	1
+Paraboea_laxa	1
+Paraboea_multiflora	1
+Paraboea_neurophylla	1
+Paraboea_paniculata	1
+Paraboea_rufescens	1
+Paraboea_sinensis	1
+Paraboea_suffruticosa	1
+Paraboea_swinhoei	1
+Paraboea_tarutaoensis	1
+Paraboea_trachyphylla	1
+Paraboea_trisepala	1
+Paraboea_velutina	1
+Paraboea_verticillata	1
+Paraboea_vulpina	1
+Paraisometrum_mileense	1
+Petrocodon_dealbatus	0
+Petrocodon_ferrugineus	1
+Petrocosmea_kerrii	1
+Petrocosmea_minor	1
+Petrocosmea_nervosa	0
+Petrocosmea_oblata	2
+Petrocosmea_sericea	1
+Petrocosmea_sinensis	0
+Platystemma_violoides	0
+Primulina_cordifolia	1
+Primulina_dryas	1
+Primulina_flavimaculata	1
+Primulina_gemella	1
+Primulina_glandulosa	1
+Primulina_heterotricha	1
+Primulina_linearifolia	1
+Primulina_longgangensis	1
+Primulina_multifida	1
+Primulina_ophiopogoides	1
+Primulina_pinnata	1
+Primulina_pinnatifida	1
+Primulina_pseudomollifolia	1
+Primulina_pteropoda	1
+Primulina_renifolia	1
+Primulina_spadiciformis	1
+Primulina_spinulosa	1
+Primulina_tabacum	1
+Primulina_wentsaii	1
+Pseudochirita_guangxiensis	1
+Ramonda_myconi	2
+Ramonda_nathaliae	2
+Raphiocarpus_begoniifolius	1
+Raphiocarpus_macrosiphon	1
+Raphiocarpus_petelotii	1
+Raphiocarpus_sesquifolius	2
+Raphiocarpus_sinicus	1
+Rhabdothamnopsis_sinensis	0
+Rhynchoglossum_azureum	2
+Rhynchoglossum_notonianum	2
+Rhynchoglossum_obliquum	0
+Rhynchotechum_discolor	1
+Rhynchotechum_parviflorum	1
+Ridleyandra_porphyrantha	1
+Ridleyandra_quercifolia	1
+Saintpaulia_brevipilosa	2
+Saintpaulia_ionantha	2
+Saintpaulia_nitida	2
+Saintpaulia_teitensis	2
+Saintpaulia_tongwensis	2
+Saintpaulia_velutina	2
+Schizoboea_kamerunensis	2
+Senyumia_minutiflora	1
+Spelaeanthus_chinii	1
+Stauranthera_grandiflora	0
+Streptocarpus_andohahelensis	2
+Streptocarpus_aylae	2
+Streptocarpus_baudertii	2
+Streptocarpus_bindseili	2
+Streptocarpus_bolusii	2
+Streptocarpus_buchananii	2
+Streptocarpus_bullatus	2
+Streptocarpus_burundianus	2
+Streptocarpus_caeruleus	2
+Streptocarpus_candidus	2
+Streptocarpus_caulescens	2
+Streptocarpus_compressus	2
+Streptocarpus_cooperi	2
+Streptocarpus_cyaneus	2
+Streptocarpus_davyi	2
+Streptocarpus_decipiens	2
+Streptocarpus_denticulatus	2
+Streptocarpus_dolichanthus	2
+Streptocarpus_dunnii	2
+Streptocarpus_elongatus	2
+Streptocarpus_erubescens	2
+Streptocarpus_exsertus	2
+Streptocarpus_fanniniae	2
+Streptocarpus_fasciatus	2
+Streptocarpus_floribundus	2
+Streptocarpus_formosus	2
+Streptocarpus_galpinii	2
+Streptocarpus_gardenii	2
+Streptocarpus_glandulosissimus	2
+Streptocarpus_goetzei	2
+Streptocarpus_grandis	2
+Streptocarpus_haygarthii	2
+Streptocarpus_hildebrandtii	2
+Streptocarpus_hilsenbergii	2
+Streptocarpus_hirticapsa	2
+Streptocarpus_hirtinervis	2
+Streptocarpus_holstii	2
+Streptocarpus_ibityensis	2
+Streptocarpus_itremensis	2
+Streptocarpus_johannis	2
+Streptocarpus_kentaniensis	2
+Streptocarpus_kimbozanus	2
+Streptocarpus_kirkii	2
+Streptocarpus_kungwensis	2
+Streptocarpus_lilliputana	2
+Streptocarpus_longiflorus	2
+Streptocarpus_macropodus	2
+Streptocarpus_meyeri	2
+Streptocarpus_milanjianus	2
+Streptocarpus_modestus	2
+Streptocarpus_molweniensis	2
+Streptocarpus_montanus	2
+Streptocarpus_montigena	2
+Streptocarpus_nimbicola	2
+Streptocarpus_nobilis	2
+Streptocarpus_orientalis	1
+Streptocarpus_pallidiflorus	2
+Streptocarpus_papangae	2
+Streptocarpus_parviflorus	2
+Streptocarpus_pentherianus	2
+Streptocarpus_perrieri	2
+Streptocarpus_pole_evansii	2
+Streptocarpus_polyanthus	2
+Streptocarpus_porphyrostachys	2
+Streptocarpus_primulifolius	2
+Streptocarpus_prolixus	2
+Streptocarpus_pumilus	2
+Streptocarpus_pusillus	2
+Streptocarpus_rexii	2
+Streptocarpus_rimicola	2
+Streptocarpus_saundersii	2
+Streptocarpus_saxorum	2
+Streptocarpus_schliebenii	2
+Streptocarpus_silvaticus	2
+Streptocarpus_solenanthus	2
+Streptocarpus_stomandrus	2
+Streptocarpus_tanala	2
+Streptocarpus_thompsonii	2
+Streptocarpus_thysanotus	2
+Streptocarpus_wendlandii	2
+Streptocarpus_wittei	2
+Tengia_scopulorum	1
+Tetraphyllum_roseum	1
+Thamnocharis_esquirolii	1
+Tremacron_begoniifolium	1
+Tremacron_forrestii	0
+Tremacron_urceolatum	2
+Tribounia_grandiflora	1
+Tribounia_venosa	1
+Whytockia_purpurascens	1
+Whytockia_sasakii	2
+Whytockia_tsiangiana	0
