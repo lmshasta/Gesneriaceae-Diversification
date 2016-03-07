@@ -156,3 +156,26 @@ fit.7.est.param.table<-as.data.frame(do.call("rbind",
 #write the table to a file
 output<-paste(Sys.getenv("HOME"), "/fit.7.txt", sep='')
 write.table(fit.7.est.param.table, file=output, row.names=F, quote=F, sep="\t")
+
+###################################################
+
+#best model for epiphytism was equal extinction
+#MCMC
+fit<-lapply(1:length(random.trees),function(x){
+model<-make.bisse(tree=random.trees[[1]],states=epi,sampling.f=sampling.f)
+lik<-constrain(model,mu1 ~ mu0)
+start.values<-starting.point.bisse(random.trees[[1]])
+res<-find.mle(model,x.init=start.values[argnames(lik)],method="subplex",control=list(maxit=50000))
+set.seed(1)
+prior<-make.prior.exponential(1/(2*(res$par[2]-res$par[3])))
+samples<-mcmc(lik,res$par[argnames(lik)],nsteps=10000,w=.3,prior=prior,print.every=100)
+cat("job #",x,"finished\n",sep="")
+return(samples)
+})
+
+fit.epi<-as.data.frame(do.call("cbin",lapply(fit,function(x)( c(x$p)))))
+
+#write MCMC output to file
+output<-paste(Sys.getenv("HOME"),"/fit.epi.txt",sep='')
+write.table(fit.epi,file=output,row.names=F,quote=F,sep="\t")
+
