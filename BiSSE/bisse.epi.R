@@ -1,5 +1,6 @@
 library(diversitree)
 
+
 #import phylogenetic tress
 trees<-read.tree("treefile")
 
