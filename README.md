@@ -1,4 +1,4 @@
-# Gesneriaceaea Diversification
+# Gesneriaceae Diversification
 ==========
 
 Roalson E.H., Roberts W.R. 2016. Distinct Processes Drive Diversification in Different Clades of Gesneriaceae. Systematic Biology. In press.
