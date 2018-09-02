@@ -1,7 +1,7 @@
 # Gesneriaceae Diversification
 ==========
 
-Roalson E.H., Roberts W.R. 2016. Distinct Processes Drive Diversification in Different Clades of Gesneriaceae. Systematic Biology. 65(4):662-684.
+Roalson EH, Roberts WR. 2016. Distinct Processes Drive Diversification in Different Clades of Gesneriaceae. *Systematic Biology* 65(4): 662-684.
 
 Scripts written in R and Python for analyses performed in the study. Written by W.R. Roberts.
 ----------
